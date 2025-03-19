@@ -17,6 +17,8 @@
 During July, ride volume exhibited notable fluctuations. The highest number of rides was recorded on July 13, followed by July 2 and July 16. These dates experienced peak demand, indicating potential trends in customer behavior or external factors influencing ride bookings.
 ```
 
+![Image](https://github.com/user-attachments/assets/a8b7e617-584c-4ca1-bfc1-157564b4afff)
+
 ##Vehicle Type
 ```
 
@@ -65,6 +67,9 @@ During July, ride volume exhibited notable fluctuations. The highest number of r
 
 ```
 
+![Image](https://github.com/user-attachments/assets/57664f3f-5d64-4cf6-bc7c-c23d8a5785e4)
+
+
 ##Cancellation
 ```
 ##Booking and Cancellation Overview (July 1 - July 30, 2024)
@@ -89,6 +94,9 @@ During July, ride volume exhibited notable fluctuations. The highest number of r
 .Customer was coughing: 1.43K (19.88%)
 .More than permitted passengers: 1.15K (16%)
 ```
+![Image](https://github.com/user-attachments/assets/84281b5f-535e-419e-b637-836902bea101)
+
+
 
 ##Revenue 
 ```
@@ -117,6 +125,7 @@ Total Revenue: $14 million
 .Mini: $3.08M
 
 
+
 Driver and Customer Ratings
 Driver Ratings (Out of 5)
 E-Bike: 4.02 (Highest)
@@ -132,6 +141,7 @@ Prime SUV & Prime Sedan: 3.99
 E-Bike: 3.99
 Bike: 3.98
 ```
+![Image](https://github.com/user-attachments/assets/746052f5-f18e-4e20-9336-37d53da777dc)
 
 ##Rating
 ```
@@ -152,3 +162,5 @@ Bike: 3.98
 .E-Bike: 3.99
 .Bike: 3.98
 ```
+![Image](https://github.com/user-attachments/assets/998bdea1-81ef-4e17-a280-5409993d0522)
+
