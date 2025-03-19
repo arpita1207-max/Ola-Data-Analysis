@@ -1,5 +1,20 @@
 # Ola-Data-Analysis
 
+##Problem Statement
+```
+Ride-hailing platforms face significant challenges in optimizing bookings, minimizing cancellations, and maximizing revenue while ensuring customer and driver satisfaction. The dataset reveals critical insights into booking trends, revenue distribution, cancellation reasons, and service ratings across different vehicle types.
+
+###Key challenges include:
+
+High Cancellation Rate (27.85%): A large number of rides are being canceled by both customers and drivers, impacting operational efficiency and user experience.
+Revenue Dependency on Cash & UPI: The majority of revenue comes from cash ($7.5M) and UPI ($5.6M), while digital payment methods like credit and debit cards contribute minimally.
+Vehicle Performance Variation: Different vehicle types show varied booking values, success rates, and travel distances, requiring data-driven optimization strategies.
+Customer & Driver Satisfaction: Ratings fluctuate across vehicle types, with areas for improvement in both customer and driver experience.
+
+###Objective
+To analyze booking trends, optimize cancellation rates, enhance revenue streams, and improve overall service quality by leveraging data-driven insights.
+```
+
 ##Overall
 ```
 ###Booking and Revenue Overview
